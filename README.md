@@ -1,5 +1,6 @@
-<img>https://www.eroticissima.wtf/assets/images/ww1.png</img>
-# LoveTriggerSDKv2
+<img width="3840" height="2160" alt="ww1" src="https://github.com/user-attachments/assets/f9fbabdc-2d04-4d19-a26a-f270d23b5911" />
+
+## LoveTriggerSDKv2
 > The open-source Unity framework powering [Eroticissima](https://www.eroticissima.wtf) — a consent-first, gender-free interaction system for VR multiplayer experiences.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-ff1a6e.svg)](https://www.gnu.org/licenses/gpl-3.0)
