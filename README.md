@@ -2,6 +2,7 @@
 
 ## LoveTriggerSDKv2
 > The open-source Unity framework powering [Eroticissima](https://www.eroticissima.wtf) — a consent-first, gender-free interaction system for VR multiplayer experiences.
+> [Documentation](https://www.eroticissima.wtf/sdk.html)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-ff1a6e.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Unity](https://img.shields.io/badge/Unity-2023%2B-white.svg)](https://unity.com)
